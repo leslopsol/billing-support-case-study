@@ -97,3 +97,12 @@ FROM invoices
 WHERE status = 'paid'
 GROUP BY month
 ORDER BY month ASC;
+
+
+-- FOLLOW-UP: Payment history of the customers with repeated failed payments.
+-- Used to check which customers still had a failed payment in October.
+
+SELECT customer_name, invoice_date, status, reason, payment_attempts
+FROM invoices
+WHERE customer_name IN ('Bright Ledger', 'Atlas Notes', 'Orbit Kitchen')
+ORDER BY customer_name, invoice_date;
