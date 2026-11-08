@@ -73,14 +73,14 @@ These three customers account for **all 7 failed payments**. Atlas Notes also ha
 | 2026-09 | 4 | $1,115.50 |
 | 2026-10 | 5 | $485.60 |
 
-October had the same number of paid invoices as August, but collected about 60% less, which points to smaller invoices. A good next step would be to break this down by plan.
+October had the same number of paid invoices as August, but collected about 60% less. The difference comes from Cedar Stack: its August and September Business invoices were paid, but its October invoice ($870) is still overdue. Since Business invoices are the largest, one unpaid Business invoice has a big impact on the monthly total.
 
 ## Suggested next steps
 
 - Follow up with **Lumen Forms** on its two overdue invoices.
 - Reach out to **Bright Ledger, Atlas Notes and Orbit Kitchen** to update their payment methods before they turn into involuntary churn.
 - Review the **Atlas Notes** account as a whole, since it has both failed payments and a dispute.
-- Check whether the October drop comes from customers moving to lower plans.
+- Follow up with Cedar Stack on its October invoice before it passes 30 days overdue.
 
 ## Notes and caveats
 
