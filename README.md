@@ -40,7 +40,7 @@ All queries were written and run in the Supabase SQL Editor. You can find them, 
 | disputed | 3 |
 | refunded | 2 |
 
-Over half of the invoices (16 of 30) were not paid on the first try.
+16 of 30 invoices (over half) ended up in a status other than paid.
 
 **2. Failed payments by reason**
 
@@ -63,7 +63,7 @@ Two invoices are more than 30 days past due, and both belong to the same custome
 | Atlas Notes | 2 |
 | Orbit Kitchen | 2 |
 
-These three customers account for **all 7 failed payments**. Atlas Notes also has an open dispute, so it shows problems on more than one front.
+These three customers account for all 7 failed payments. Atlas Notes also has a disputed invoice, so it shows problems on more than one front.
 
 **Extra: paid invoices per month**
 
