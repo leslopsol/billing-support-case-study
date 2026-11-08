@@ -78,7 +78,7 @@ October had the same number of paid invoices as August, but collected about 60% 
 ## Suggested next steps
 
 - Follow up with **Lumen Forms** on its two overdue invoices.
-- Reach out to **Bright Ledger, Atlas Notes and Orbit Kitchen** to update their payment methods before they turn into involuntary churn.
+- Reach out to Bright Ledger and Atlas Notes, whose October payments also failed: Bright Ledger needs to update its card, and Atlas Notes needs to complete authentication with its bank. Orbit Kitchen’s October payment went through on the second attempt, so its card issue seems resolved.
 - Review the **Atlas Notes** account as a whole, since it has both failed payments and a dispute.
 - Follow up with Cedar Stack on its October invoice before it passes 30 days overdue.
 
